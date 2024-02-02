@@ -1,5 +1,5 @@
-# NeuroLoad
+# NeuroLoad : Mental Workload Assessment using Galvanic Skin Response signals
 
-NeuroLoad is a health concerned research project for effective diagnosis of mental stress levels using Electrodermal activity. It involves binary classification of mental stress (particularly in mind disturbing state).
+NeuroLoad is a health concerned research project for effective diagnosis of mental stress levels using Electrodermal activity (GSR). It involves binary classification of mental stress (particularly in mind disturbing state).
 
 
