@@ -1,9 +1,9 @@
-# Neuro Load : Mental Workload Assessment using Galvanic Skin Response signals
+<h1 align='center'>Neuro Load : Mental Workload Assessment using Galvanic Skin Response signals</h1> 
 
 Neuro Load is a health concerned research project for effective diagnosis of mental stress levels using Electrodermal activity (GSR). It involves binary classification of mental stress (i.e. stress particularly in mindstorming state).
 
 
-### REFERENCES
+### REFERENCES<hr>
 1) https://pubmed.ncbi.nlm.nih.gov/22778631/
 2) https://ieeexplore.ieee.org/document/5663259
 3) https://www.researchgate.net/publication/221532890
