@@ -1,6 +1,6 @@
 <h1 align='center'>Neuro Load : Mental Workload Assessment using GSR</h1> 
 
-**Project Duration**: March 2023 - May 2023
+**Project Duration**: May 2023 - June 2023
 
 Neuro Load is a research project that introduces a novel approach to categorizing mental workload using Galvanic Skin Response (GSR). The project focuses on leveraging advanced signal processing techniques and machine learning to assess mental workload effectively.
 
